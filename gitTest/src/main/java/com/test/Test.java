@@ -1,4 +1,4 @@
-package gitTest; 
+package com.test; 
  /**
  * <pre>
  * 1. 개요        :
@@ -12,7 +12,6 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("TEST Git");
 		
-		
-		
+	
 	}
 }
