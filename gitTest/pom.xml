@@ -58,7 +58,7 @@
 						<phase>install</phase>
 						<goals>
 							<goal>copy-dependencies</goal>
-						</goals>
+						</goals>						
 						<configuration>
 							<outputDirectory>
 								${project.build.directory}/lib
